@@ -1,26 +1,25 @@
 # 💫 About Me
 
-👋<h1 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h1>
-<h3 align="center">Flutter Developer | Mobile App Developer</h3>  
+<h1 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h1>
+<h3 align="center">Flutter Developer | Mobile App Developer</h3> 
 
-🔭 Currently developing **scalable mobile applications with Flutter and REST APIs**  
+🔭 Currently developing **scalable mobile applications with Flutter and REST APIs**
 
-👯 Open to collaborating on **Flutter, Mobile Development, and Open Source projects** 
+👯 Open to collaborating on **Flutter, Mobile Development, and Open Source projects**
 
-🌱 Exploring **Clean Architecture, Advanced State Management, and Backend integration** 
+🌱 Exploring **Clean Architecture, Advanced State Management, and Backend integration**
 
-💬 Ask me about **Flutter, Dart, UI/UX design, API integration, and Firebase** 
+💬 Ask me about **Flutter, Dart, UI/UX design, API integration, and Firebase**
 
 🚀 Passionate about building **high-performance, user-friendly mobile apps**
 
-⚡ Fun fact: I enjoy **transforming innovative ideas into real-world mobile solutions**  
-
+⚡ Fun fact: I enjoy **transforming innovative ideas into real-world mobile solutions**
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-azaz-ansari-aazaz8283/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aazaz8283@gmail.com)
-
++91 6389751858
 
 # 💻 Tech Stack:
 
@@ -42,7 +41,6 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346AC1?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 # 📊 GitHub Stats
 
 ![Azaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaz7001&show_icons=true&theme=dark)
@@ -51,15 +49,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaz7001&layout=compact&theme=dark)
 
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=azaz7001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 ---
 
 ![](https://visitcount.itsvg.in/api?id=azaz7001&icon=0&color=0)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
