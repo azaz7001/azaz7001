@@ -1,14 +1,16 @@
-# 💫 About Me
+<h2# 💫 About Me</h2>
 
-<h1 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h1>
-<h2 align="center">Flutter Developer | Mobile App Developer</h2>
+<h2 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h2>
+<h3 align="center">Flutter Developer | Mobile App Developer</h3>
 
-<h5🔭 Currently developing **scalable mobile applications with Flutter and REST APIs**<br>
-👯 Open to collaborating on **Flutter, Mobile Development, and Open Source projects**<br>
-🌱 Exploring **Clean Architecture, Advanced State Management, and Backend integration**<br>
-💬 Ask me about **Flutter, Dart, UI/UX design, API integration, and Firebase**<br>
-🚀 Passionate about building **high-performance, user-friendly mobile apps**<br>
-⚡ Fun fact: I enjoy **transforming innovative ideas into real-world mobile solutions**</h5>
+<h6>
+🔭 Currently developing <b>scalable mobile applications with Flutter and REST APIs</b><br>
+👯 Open to collaborating on <b>Flutter, Mobile Development, and Open Source projects</b><br>
+🌱 Exploring <b>Clean Architecture, Advanced State Management, and Backend integration</b><br>
+💬 Ask me about <b>Flutter, Dart, UI/UX design, API integration, and Firebase</b><br>
+🚀 Passionate about building <b>high-performance, user-friendly mobile apps</b><br>
+⚡ Fun fact: I enjoy <b>transforming innovative ideas into real-world mobile solutions</b>
+</h6>
 
 ## 🌐 Socials:
 
