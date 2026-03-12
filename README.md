@@ -1,8 +1,8 @@
-<h2# 💫 About Me</h2>
-
+<h2
+# 💫 About Me
+</h2>
 <h2 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h2>
-<h3 align="center">Flutter Developer | Mobile App Developer</h3>
-
+<h4 align="center">Flutter Developer | Mobile App Developer</h4>
 <h6>
 🔭 Currently developing <b>scalable mobile applications with Flutter and REST APIs</b><br>
 👯 Open to collaborating on <b>Flutter, Mobile Development, and Open Source projects</b><br>
