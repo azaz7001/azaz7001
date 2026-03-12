@@ -42,21 +42,3 @@
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346AC1?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats
-
-![Azaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaz7001&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=azaz7001&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaz7001&layout=compact&theme=dark)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=azaz7001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=azaz7001&icon=0&color=0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
