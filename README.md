@@ -1,14 +1,14 @@
 # 💫 About Me
 
 <h1 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h1>
-<h3 align="center">Flutter Developer | Mobile App Developer</h3> 
+<h2 align="center">Flutter Developer | Mobile App Developer</h2>
 
-🔭 Currently developing **scalable mobile applications with Flutter and REST APIs**<br>
+<h5🔭 Currently developing **scalable mobile applications with Flutter and REST APIs**<br>
 👯 Open to collaborating on **Flutter, Mobile Development, and Open Source projects**<br>
 🌱 Exploring **Clean Architecture, Advanced State Management, and Backend integration**<br>
 💬 Ask me about **Flutter, Dart, UI/UX design, API integration, and Firebase**<br>
 🚀 Passionate about building **high-performance, user-friendly mobile apps**<br>
-⚡ Fun fact: I enjoy **transforming innovative ideas into real-world mobile solutions**
+⚡ Fun fact: I enjoy **transforming innovative ideas into real-world mobile solutions**</h5>
 
 ## 🌐 Socials:
 
@@ -30,8 +30,10 @@
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase%20auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/firebase%20auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase FCM](https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
