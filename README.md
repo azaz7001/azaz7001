@@ -1,6 +1,4 @@
-<h2
-# 💫 About Me
-</h2>
+<h2 align="left">💫 About Me</h2>
 <h2 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h2>
 <h4 align="center">Flutter Developer | Mobile App Developer</h4>
 <h6>
