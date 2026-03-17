@@ -4,8 +4,8 @@
   Hi 👋, I'm Mohammad Azaz Ansari
 </h2>
 
-<p style="margin-left: 20px; font-size: 16px; font-weight: 600;">
-  🚀 A passionate Flutter developer from India
+<p style="margin-left: 20px; font-size: 18px; font-weight: 600;">
+    A passionate Flutter developer from India
 </p>
 <p align="left">
 🌱 I'm currently learning <b>AI</b><br>
