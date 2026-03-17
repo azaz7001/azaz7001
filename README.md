@@ -1,8 +1,12 @@
 <h3 align="left">💫 About Me</h3>
 
-<h4 align="left">Hi 👋, I'm Mohammad Azaz Ansari</h4>
+<h2 style="margin-left: 20px; font-weight: 700;">
+  Hi 👋, I'm Mohammad Azaz Ansari
+</h2>
 
-<p style="margin-left: 20px;">🚀 A passionate Flutter developer from India</p>
+<p style="margin-left: 20px; font-size: 16px; font-weight: 600;">
+  🚀 A passionate Flutter developer from India
+</p>
 <p align="left">
 🌱 I'm currently learning <b>AI</b><br>
 💬 Ask me about <b>Flutter, Dart, FastAPI, My SQL, PostgreSQL, MongoDB</b><br>
