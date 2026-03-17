@@ -1,22 +1,22 @@
-<h4## 💫 About Me</h4>
+<h4 align="left">💫 About Me</h4>
 
-<h4 align="center">Hi 👋, I'm Mohammad Azaz Ansari</h4>
-<h5 align="center">Flutter Developer | Mobile App Developer</h5>
+<h4 align="left">Hi 👋, I'm Mohammad Azaz Ansari</h4>
+<h5 align="left">Flutter Developer | Mobile App Developer</h5>
 
 <p align="left">
-🌱 I'm currently learning <b>Agentic AI</b><br>
+🌱 I'm currently learning <b>AI</b><br>
 💬 Ask me about <b>Flutter, Dart, FastAPI, My SQL, PostgreSQL, MongoDB</b><br>
 📫 Reach me at <b>aazaz8283@gmail.com</b><br>
 🚀 Passionate about building <b>scalable & high-performance mobile apps</b>
 </p>
----
+
 ## 🔗 Connect with me
 
 <p align="left">
 <a href="mailto:aazaz8283@gmail.com">
   <img src="https://img.shields.io/badge/Email-aazaz8283%40gmail.com-D14836?logo=gmail&logoColor=white" />
 </a>
-
+</b><br>
 <a href="https://www.linkedin.com/in/mohammad-azaz-ansari-aazaz8283/">
   <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Azaz%20Ansari-0077B5?logo=linkedin&logoColor=white" />
 </a>
