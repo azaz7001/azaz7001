@@ -23,8 +23,7 @@
 </b><br>
 <a href="https://www.linkedin.com/in/mohammad-azaz-ansari-aazaz8283/">
   <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Azaz%20Ansari-0077B5?logo=linkedin&logoColor=white" />
-</a>
-</p>
+</a></p>
 📞 +91  6389751858
 
 ## 🛠️ Languages and Tools
